@@ -1,0 +1,22 @@
+.btn-danger {
+  height: 100px;
+  font-size: 24px;
+}
+
+#answers .alert {
+  margin-bottom: 10px;
+}
+
+.rankings-board {
+  background: #f8f9fa;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.ranking-item {
+  padding: 10px;
+  margin: 5px 0;
+  font-size: 18px;
+  border-bottom: 1px solid #dee2e6;
+}
